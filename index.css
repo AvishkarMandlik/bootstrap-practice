@@ -1,6 +1,6 @@
 .main-container {
-    width: 800px;
-    height: 300px;
+    width: 1000px;
+    height: 400px;
     padding-top: 100px;
     margin: auto;
     display: flex;
@@ -22,16 +22,15 @@
     border: 1px solid red;
     box-shadow: 2px 4px 10px 20px rgb(89, 89, 187);
     padding-left: 18px;
-    background-color: #3f5dd8;
-    background-color: #3f5dd8;
+    background-color: #050df1;
 }
 
 .btn {
     background: #0af706;
-    border-radius: 25px;
+    border-radius: 20px;
     color: #0b0c0e;
-    font-size: 27px;
-    padding: 10px 20px 10px 20px;
+    font-size: 25px;
+    padding: 10px 40px 10px 20px;
     text-decoration: none;
     font-weight: bold;
 }
