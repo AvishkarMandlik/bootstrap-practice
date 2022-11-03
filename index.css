@@ -1,0 +1,40 @@
+.main-container {
+    width: 800px;
+    height: 300px;
+    padding-top: 100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.alert-container {
+    width: 250px;
+    padding-top: 70px;
+    border: 1px solid red;
+    padding-left: 18px;
+    box-shadow: 2px 4px 10px 20px rgb(89, 89, 187);
+    background-color: #3f5dd8;
+}
+
+.button-container {
+    width: 250px;
+    padding-top: 70px;
+    border: 1px solid red;
+    box-shadow: 2px 4px 10px 20px rgb(89, 89, 187);
+    padding-left: 18px;
+    background-color: #3f5dd8;
+    background-color: #3f5dd8;
+}
+
+.btn {
+    background: #0af706;
+    border-radius: 25px;
+    color: #0b0c0e;
+    font-size: 27px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn:hover {
+    background-color: rgb(14, 193, 50);
+}
